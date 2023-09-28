@@ -1,0 +1,30 @@
+.crud{
+    width: 50%;
+}
+.hero{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.select{
+    text-decoration: none;
+}
+.rowEl{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #fad9d9;
+    width: 170px;
+    height: 20px;
+}
+.num{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px ;
+    border-radius: 15px;
+
+}
